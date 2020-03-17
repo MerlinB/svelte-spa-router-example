@@ -1,0 +1,18 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rollup.config.js",
+  "scripts": {
+    "dev": "svelvet",
+    "build": "NODE_ENV=production svelvet"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup-plugin-svelte": "^5.1.1",
+    "svelte": "^3.20.1",
+    "svelte-spa-router": "^2.0.1",
+    "svelvet": "^0.3.6"
+  }
+}
