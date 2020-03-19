@@ -13,6 +13,6 @@
     "rollup-plugin-svelte": "^5.1.1",
     "svelte": "^3.20.1",
     "svelte-spa-router": "^2.0.1",
-    "svelvet": "^0.3.6"
+    "svelvet": "0.4.0"
   }
 }
